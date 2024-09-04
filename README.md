@@ -7,12 +7,14 @@ Natural Language Processing: Employs NLP techniques to process and understand us
 Machine Learning: Utilizes machine learning models to learn from interactions and improve responses over time.
 Contextual Understanding: Maintains context throughout conversations, ensuring relevant and coherent responses.
 Versatility: Can be adapted for various applications, such as customer support, educational assistance, or general conversation.
+
 Technologies Used:
 
 Python
 Natural Language Toolkit (NLTK)
 TensorFlow or PyTorch (for deep learning models)
 Other relevant NLP libraries (e.g., spaCy, gensim)
+
 Getting Started:
 
 Clone the repository.
